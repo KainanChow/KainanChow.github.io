@@ -11,7 +11,7 @@ I am a Ph.D. student at Tianjin Medical University. My research interests includ
 
 ## 中文简介
 
-我是在天津医科大学攻读博士学位的学生，研究方向包括免疫代谢、代谢与免疫交互，以及 AI for Science。我关注如何将生物医学问题与计算方法结合，推动机制研究与科学发现。
+我是天津医科大学在读博士生，研究方向包括免疫代谢、代谢与免疫交互，以及 AI for Science。我关注如何将生物医学问题与计算方法结合，推动机制研究与科学发现
 
 I am based in Tianjin, China, and my academic interests lie at the intersection of metabolism, immunology, and computational approaches to scientific discovery. This website brings together my academic background, publications, and conference activities.
 
