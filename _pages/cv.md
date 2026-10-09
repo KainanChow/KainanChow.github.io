@@ -28,7 +28,7 @@ redirect_from:
 
 ## Awards and Scholarships
 
-- **2024, 2025, 2026** — Graduate Academic Scholarship, Tianjin Medical University.
+- **2024–2025, 2025–2026, 2026–2027** — Graduate Academic Scholarship, Tianjin Medical University.
 - **2019–2020, 2020–2021, 2021–2022** — Graduate Scholarship, Nantong University.
 - **2015–2016, 2016–2017, 2017–2018** — Outstanding Student Scholarship — Individual Award, Nanjing Medical University.
 
