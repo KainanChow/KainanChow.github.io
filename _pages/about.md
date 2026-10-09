@@ -46,7 +46,7 @@ My published work includes the following two journal articles. Full bibliographi
 
 ## Recent News & Activities
 
-I attend academic meetings on metabolism, diabetes, immunology, and related biomedical topics. The following entries record my conference attendance; they do not imply an invited talk or presentation.
+I attend academic meetings on metabolism, diabetes, immunology, and related biomedical topics. Recent meetings include:
 
 - **July 2026:** Attended the [Tianjin Medical University–National University of Singapore Joint Symposium on Metabolic Cardiovascular Diseases]({{ '/conferences/2026-07-tmu-nus-symposium/' | relative_url }}).
 - **July 2026:** Attended the [4th Tianjin Frontiers in Immunology Forum]({{ '/conferences/2026-07-tianjin-immunology/' | relative_url }}).
