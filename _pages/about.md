@@ -60,6 +60,6 @@ I attend academic meetings on metabolism, diabetes, immunology, and related biom
 
 ## Contact
 
-I am based at Tianjin Medical University in Tianjin, China. For academic enquiries, you can reach me by email. My ORCID profile and GitHub account are linked below.
+I am based at Tianjin Medical University in Tianjin, China. For academic enquiries, you can reach me by email. My Google Scholar and ORCID profiles, along with my GitHub account, are linked below.
 
-[Email](mailto:znpotter@hotmail.com) · [ORCID](https://orcid.org/0000-0002-1818-865X) · [GitHub](https://github.com/KainanChow)
+[Email](mailto:znpotter@hotmail.com) · [Google Scholar](https://scholar.google.com/citations?user=-anKnl0AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1818-865X) · [GitHub](https://github.com/KainanChow)
