@@ -37,10 +37,12 @@ My academic background includes undergraduate and master's studies, research-ass
 
 ## Publications
 
-My published work includes the following two journal articles. Full bibliographic details and links to the original articles are available on the Publications page.
+My published work includes the following three journal articles. Full bibliographic details and links to the original articles are available on the Publications page.
 
 - [1,6-Hexanediol regulates angiogenesis via suppression of cyclin A1-mediated endothelial function](https://doi.org/10.1186/s12915-023-01580-8). *BMC Biology*, 2023.
 - [Inhibition of BETs prevents heat shock-induced cell death via upregulating HSPs in SV40 large T antigen transfected cells](https://doi.org/10.1007/s13258-022-01228-x). *Genes & Genomics*, 2022.
+
+- [Lactic acid induces non-tumorigenic B-lymphoblastic cell dedifferentiation and escalates tumorigenesis by promoting oncogenic genes]({{ '/publication/2022-lactic-acid-lymphoblasts/' | relative_url }}). *Journal of Nantong University (Medical Sciences)*, 2022.
 
 [View publication details]({{ '/publications/' | relative_url }})
 
