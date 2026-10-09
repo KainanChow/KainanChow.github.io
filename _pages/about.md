@@ -17,7 +17,7 @@ I am a Ph.D. student at Tianjin Medical University. My research interests includ
 
 ## Academic Background
 
-I received my bachelor's degree from Nanjing Medical University in 2018 and my master's degree from Nantong University in 2022. In 2023, I worked as a Research Assistant at Fudan University. I am currently pursuing my Ph.D. at Tianjin Medical University, with graduation expected in 2027.
+I received my bachelor's degree from Nanjing Medical University in 2018 and my master's degree from Nantong University in 2022. In 2023, I worked as a Research Assistant at Fudan University. I am currently pursuing my Ph.D. at Tianjin Medical University (2027).
 
 [View my CV]({{ '/cv/' | relative_url }})
 
