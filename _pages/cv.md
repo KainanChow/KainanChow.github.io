@@ -7,45 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D., Tianjin Medical University, 2027
-* Master's degree, Nantong University, 2022
-* Bachelor's degree, Nanjing Medical University, 2018
+- **2027** — Ph.D., Tianjin Medical University (in progress)
+- **2022** — Master's degree, Nantong University
+- **2018** — Bachelor's degree, Nanjing Medical University
 
-Work experience
-======
-* 2023: Research Assistant, Fudan University
+## Research Experience
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **2023** — Research Assistant, Fudan University
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>. <em>{{ post.venue | escape }}</em>, {{ post.date | date: "%Y" }}.</li>
+{% endfor %}
+</ul>
