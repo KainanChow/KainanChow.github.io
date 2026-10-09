@@ -23,7 +23,7 @@ repository               : "KainanChow/kainanchow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/317372621?v=4"
+  avatar           : "myphoto.jpg"
   name             : "Nan Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Tianjin Medical University"
