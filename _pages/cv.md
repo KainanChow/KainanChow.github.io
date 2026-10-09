@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Tianjin Medical University, 2027 (expected)
+* Ph.D., Tianjin Medical University, 2027
 * Master's degree, Nantong University, 2022
 * Bachelor's degree, Nanjing Medical University, 2018
 
