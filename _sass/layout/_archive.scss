@@ -243,3 +243,35 @@
     }
   }
 }
+
+.interest-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5em;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+  }
+
+  figure { margin: 0; }
+  figcaption { margin-top: 0.75em; color: var(--global-text-color); }
+
+  &__visual {
+    aspect-ratio: 4 / 3;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    overflow: hidden;
+
+    a { display: block; width: 100%; height: 100%; }
+    img { display: block; width: 100%; height: 100%; object-fit: contain; }
+  }
+
+  &__placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-style: dashed;
+    color: var(--global-text-color-light);
+  }
+}
