@@ -54,6 +54,7 @@ My published work includes the following three journal articles. Full bibliograp
 
 I attend academic meetings on metabolism, diabetes, immunology, and related biomedical topics. Recent meetings include:
 
+- **October 2026:** Attended the [17th Tianjin Diabetes Academic Conference]({{ '/conferences/2026-10-tianjin-diabetes/' | relative_url }}).
 - **July 2026:** Attended the [Tianjin Medical University–National University of Singapore Joint Symposium on Metabolic Cardiovascular Diseases]({{ '/conferences/2026-07-tmu-nus-symposium/' | relative_url }}).
 - **July 2026:** Attended the [4th Tianjin Frontiers in Immunology Forum]({{ '/conferences/2026-07-tianjin-immunology/' | relative_url }}).
 - **June 2026:** Attended the [16th Academic Conference for Young and Middle-aged Diabetes Physicians, Chinese Diabetes Society, Chinese Medical Association]({{ '/conferences/2026-06-young-diabetes-physicians/' | relative_url }}).
